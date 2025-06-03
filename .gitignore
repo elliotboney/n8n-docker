@@ -1,0 +1,6 @@
+.env
+volumes/
+shared/
+neo4j/
+shared-backup/
+.env.test
